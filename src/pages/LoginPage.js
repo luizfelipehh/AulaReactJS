@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import { Button, Input } from 'reactstrap';
 import { Prompt } from 'react-router-dom';
 
-import { setAutenticado } from '../utils/LoginManager';
+import { setAutenticado } from '../Utils/LoginManager';
 
 class LoginPage extends Component {
 
