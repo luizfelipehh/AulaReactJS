@@ -8,7 +8,7 @@ import { isAutenticado,setAutenticado } from '../Utils/LoginManager';
 
 import {
     isAutenticado, setAutenticado
-} from '../utils/LoginManager';
+} from '../Utils/LoginManager';
 
 const Menu = (props) => {
     return(
